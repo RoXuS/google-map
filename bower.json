@@ -28,10 +28,10 @@
     "maps"
   ],
   "dependencies": {
-    "polymer": "Polymer/polymer#^2.0.0-rc.7",
+    "polymer": "Polymer/polymer#^2.0.0",
     "google-apis": "GoogleWebComponents/google-apis#2.0-preview",
-    "iron-resizable-behavior": "PolymerElements/iron-resizable-behavior#2.0-preview",
-    "iron-selector": "PolymerElements/iron-selector#2.0-preview"
+    "iron-resizable-behavior": "PolymerElements/iron-resizable-behavior#2.0.0",
+    "iron-selector": "PolymerElements/iron-selector#2.0.0"
   },
   "devDependencies": {
     "web-component-tester": "^6.0.0-prerelease.6",
